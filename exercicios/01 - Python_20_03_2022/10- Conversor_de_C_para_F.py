@@ -2,7 +2,7 @@
 
 print( "="*10, "Conversor de Celsius em Fahrenheit", "="*10)
 
-tempC = int(input("Qual a temperatura em ºC: "))
+tempC = float(input("Qual a temperatura em ºC: "))
 
 tempF = tempC * 1.8 + 32
 

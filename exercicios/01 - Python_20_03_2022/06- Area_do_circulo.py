@@ -2,7 +2,7 @@
 
 print( "="*10, "Cálculo da área de um círculo", "="*10)
 
-raio = int(input("Raio do circulo: "))
+raio = float(input("Raio do circulo: "))
 
 area = 3.14 * raio**2
 

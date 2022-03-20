@@ -2,7 +2,7 @@
 
 print( "="*10, "Conversor de metros para centímetros", "="*10)
 
-metros = int(input("Valor em metros: "))
+metros = float(input("Valor em metros: "))
 
 cm = metros * 100
 

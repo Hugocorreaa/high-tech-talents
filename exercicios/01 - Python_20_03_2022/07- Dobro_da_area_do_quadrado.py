@@ -2,9 +2,9 @@
 
 print( "="*10, "Dobro da área de um quadrado", "="*10)
 
-lado = int(input("Qual o lado do quadrado: "))
+lado = float(input("Qual o lado do quadrado: "))
 
 area = lado**2
 dobro = area * 2
 
-print(f"\n --> O dobro da área do quadrado é {dobro}")
+print(f"\n --> A área do quadrado é {area} e seu dobro é {dobro}")

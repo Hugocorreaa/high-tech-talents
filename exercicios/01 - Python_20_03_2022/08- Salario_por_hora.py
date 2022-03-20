@@ -2,8 +2,8 @@
 
 print( "="*10, "Cálculo do salário por hora", "="*10)
 
-valorPorHora = int(input("Quando você ganha por hora: R$"))
-horasTrabalhadas = int(input("Quantas horas você trabalha no mês: "))
+valorPorHora = float(input("Quando você ganha por hora: R$"))
+horasTrabalhadas = float(input("Quantas horas você trabalha no mês: "))
 
 salario = valorPorHora * horasTrabalhadas
 
