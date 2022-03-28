@@ -7,6 +7,6 @@ O High Tech Talents é um programa de formação em tecnologia focado em proporc
 
 >[x] 1ª **Etapa Técnica:** Nivelamento em Lógica de Programação
 
->[ ] 2ª **Etapa Técnica:** Formação em Python focado em desenvolvimento de APIs com Flask
+>[...] 2ª **Etapa Técnica:** Formação em Python focado em desenvolvimento de APIs com Flask
 
 >[ ] 3ª **Etapa:** Processo seletivo com as empresas
