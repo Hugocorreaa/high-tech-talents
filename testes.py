@@ -1,25 +1,8 @@
-dict = {
-    'Name': 'Zara',
-    'Age': '7',
-    'Class': 'First',
+def Imprimir_Nome(nome):
+    if nome is None:
+        nome = "Não tenho nome"
+    elif nome == "":
+        nome = "Ainda não tenho nome"
+    return nome
 
-    'dic_interno': {
-        'teste': 'Teste de dicionário',
-    },
-
-    'Lista de nada': ['nada01', 'nada02', 'teste de lista'],
-
-    ('teste'): 'teste de tupla'
-
-
-}
-
-
-dict2 = {
-    'Name': 'Zara',
-    'Age': '8'
-}
-
-dict_copia = dict.fromkeys('Name')
-
-print(dict_copia)
+print(Imprimir_Nome(""))
