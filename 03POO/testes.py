@@ -1,6 +1,6 @@
 class grafite():   #classe
     
-    #método construtor
+    #método construtor ()
     def __init__(self, cor):
         # Atributos/Propriedades
         self.cor = cor
