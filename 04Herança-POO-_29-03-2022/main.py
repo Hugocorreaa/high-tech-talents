@@ -52,7 +52,7 @@ print(pj.documento)
 pf = PessoaFisica("Jeff", "123321", "RJ", "01/01/2000")
 pf.dar_entrada()
 pf.nascer()
-pf.__metodoPrivado() ## Teste de escopo privado
+# pf.__metodoPrivado() ## Teste de escopo privado
 
 print(pf.documento)
 
