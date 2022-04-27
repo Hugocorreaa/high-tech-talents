@@ -13,4 +13,4 @@ O High Tech Talents é um programa de formação em tecnologia focado em proporc
 >
 >Desafio Final: [Imobiliária HTT no CMD](https://github.com/Hugocorreaa/imobiliaria-htt-cmd)
 
->[ ] 3ª **Etapa:** Processo seletivo com as empresas
+>[...] 3ª **Etapa:** Processo seletivo com as empresas
