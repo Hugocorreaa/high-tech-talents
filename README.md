@@ -7,6 +7,10 @@ O High Tech Talents é um programa de formação em tecnologia focado em proporc
 
 >[x] 1ª **Etapa Técnica:** Nivelamento em Lógica de Programação
 
->[...] 2ª **Etapa Técnica:** Formação em Python focado em desenvolvimento de APIs com Flask
+>[x] 2ª **Etapa Técnica:** Formação em Python focado em desenvolvimento de APIs com Flask
+>
+>Desafio Final: [Imobiliária HTT com Flask-SQLAlchemy](https://github.com/Hugocorreaa/imobiliaria-htt-flask-sqlachemy)
+>
+>Desafio Final: [Imobiliária HTT no CMD](https://github.com/Hugocorreaa/imobiliaria-htt-cmd)
 
 >[ ] 3ª **Etapa:** Processo seletivo com as empresas
